@@ -1,0 +1,4 @@
+apache-airflow-providers-postgres
+pendulum
+pandas
+requests
